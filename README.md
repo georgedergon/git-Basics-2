@@ -6,3 +6,4 @@ datein umbenennen
 verzeichnisse verschieben
 verschieben die datein
 prüfungsvorbereiten
+apple ist teuer
