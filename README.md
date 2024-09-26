@@ -1,1 +1,2 @@
 install bash
+test2
