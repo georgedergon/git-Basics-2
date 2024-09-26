@@ -8,3 +8,4 @@ verschieben die datein
 prüfungsvorbereiten
 apple ist teuer
 sonne ist gelb
+himmel ist blau
