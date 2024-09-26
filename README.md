@@ -7,3 +7,4 @@ verzeichnisse verschieben
 verschieben die datein
 prüfungsvorbereiten
 apple ist teuer
+sonne ist gelb
