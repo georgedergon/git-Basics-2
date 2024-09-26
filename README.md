@@ -1,1 +1,1 @@
-bash is better
+ich bin programmierer
